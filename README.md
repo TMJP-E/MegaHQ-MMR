@@ -16,8 +16,8 @@ If you want to understand what's going on, since this is intended to be a "first
 #### Roadmap
 
 - [x] Basic concepts, introductions and explails -nations (Starters guide).
-- [x] Color palette definitions.
-- [x] Software defintions.
+- [ ] Color palette definitions - (12 colors for main, 1 - 4 - 3 - 3 - 1, 8 for accents 1 - 2 - 2 - 2, add 4 more accents, neutral grayscale colors 2 - 5 - 3)
+- [ ] Software defintions - (Change for GTK with Rust, addition of Astal/AGS and Fabric to the wiki.)
 - [x] Wiki ordering.
 - [ ] Icon pack and assets.
 - [ ] Oomoox credits and usage.
